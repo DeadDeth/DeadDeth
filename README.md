@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>💻 Bare Metal Enthusiast | Fedora Power User | Hardware Hacker</strong>
+  <strong>ORTHODOX C</strong>
 </p>
 
 <p align="center">
@@ -12,23 +12,23 @@
 
 ---
 
-### 👤 O mnie / About Me
-- 🇵🇱 **Pochodzenie:** Polska (born and raised).
-- 🛠️ **Pasja:** Niskopoziomowe dłubanie w sprzęcie. Piszę kod, który gada bezpośrednio z krzemem.
-- ⚡ **Current Focus:** Bare metal programming on **Raspberry Pi Zero 2 WH**.
-- 🐧 **Daily Driver:** Fedora Linux – bo stabilność i świeżość to podstawa.
+### What about me
+- 🇵🇱 **Nationality** Polish duh
+- 🛠️ **Passions** Coiding instead of sleeping
+- ⚡ **Current Focus:** Staying awake **Raspberry Pi Zero 2 WH**.
+- 🐧 **Daily Driver:** Fedora.
+-    **IDE:** Clion
 
 ---
 
-### 🛡️ Battle Station / Moja Maszyna
-> *Bo do kompilowania kernela potrzeba konkretnej mocy.*
+### My Rig
+>  *Barly enogh for <3*
 
 | Component | Specification |
 | :--- | :--- |
-| **CPU** | AMD Ryzen 7 7800X3D (The Gaming King) |
-| **GPU** | NVIDIA RTX 4080 Super |
+| **CPU** | Ryzen 7 7800X3D |
+| **GPU** | RTX 4080 Super |
 | **RAM** | 64GB DDR5 6000MHz CL30 |
-| **OS** | Fedora Workstation |
 
 ---
 
