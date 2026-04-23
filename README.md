@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7000ff&height=200&section=header&text=DeadDeth&fontSize=85&fontColor=0d1117&animation=twinkling&fontAlignY=35&fontAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7000ff&height=200&section=header&text=DeadDeth&fontSize=85&fontColor=0d1117&fontAlignY=55&fontAlign=center" />
+</p>
+
+<p align="center">
+  <strong>ORTHODOX C | staying awake... Segmentation fault (core dumped)</strong>
 </p>
 
 <p align="center">
@@ -9,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/152W0U-iQYAAAAAi/anime-dance.gif" width="130" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/bQyv3w-HnZMAAAAi/miku-hatsune-miku.gif" width="130" />
+  <img src="./dancing.webp" width="150" />
+          
+  <img src="./octocat-1776984331564.png" width="150" />
 </p>
 
 <p align="center">
