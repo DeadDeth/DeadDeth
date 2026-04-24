@@ -14,6 +14,6 @@
 > I'm running Fedora Workstation 43, and I'm Polish, currently a Studnet, we will see for about how long <3
 
 <p align="center">
-    <img src="./dancing.webp" alt="dance" width="350"/>
-    <img src="./dancing.webp" alt="dance" width="350"/>
+    <img src="./dancing.webp" alt="dance" width="400"/>
+    <img src="./dancing.webp" alt="dance" width="400"/>
 </p>
